@@ -1,0 +1,30 @@
+{
+  "name": "@yishiashia/wasm-qrcode",
+  "version": "0.1.1",
+  "description": "A QR Code WebAssembly library implemented with Rust.",
+  "module": "wasm_qrcode.js",
+  "types": "wasm_qrcode.d.ts",
+  "files": [
+    "wasm_qrcode_bg.wasm",
+    "wasm_qrcode.js",
+    "wasm_qrcode.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yishiashia/wasm-qrcode.git"
+  },
+  "keywords": [
+    "webassembly",
+    "wasm",
+    "rust",
+    "webpack",
+    "qrcode"
+  ],
+  "author": "yishiashis <yishiashia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yishiashia/wasm-qrcode/issues"
+  },
+  "homepage": "https://github.com/yishiashia/wasm-qrcode#readme",
+  "sideEffects": false
+}
